@@ -1,7 +1,7 @@
 # hello-world
 Just a new repository
 
-Hi Humans!
+Hello world!
 
-Hubot here, I like Node.js and Coffeescript(that's what I'm made of!).
-I've had tacos on the moon and find them far superior to Earth tacos.
+This is Yongqiu Li. I am writing this for S308 Lab25.
+
